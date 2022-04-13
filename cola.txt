@@ -1,0 +1,4 @@
+1 - ler o arquivo e suas linhas                         FEITO
+2 - pegar a primeira letra da primeira linha            FEITO
+3 - pegar a primeira letra da linha, armazenar, iterar pela string e altear os chars que forem
+iguais a letra pela string necessária.
